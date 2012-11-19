@@ -25,6 +25,8 @@ Warnings will appear in the app when:
 * A dependency is scheduled too late to start work on the original story.
 * A dependency is marked as blocked.
 
+<b>NOTE:</b> Only a story's immediate predecessors are listed in the app.
+
 ## Customize this App
 
 You're free to customize this app to your liking (see the License section for details). If you need to add any new Javascript or CSS files, make sure to update config.json so it will be included the next time you build the app.
