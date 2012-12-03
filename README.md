@@ -1,4 +1,4 @@
-Rally Recently Changed
+Rally Dependency Status
 ======================
 
 ![Title](https://raw.github.com/RallyApps/DependencyStatus/master/screenshots/title-screenshot.png)
